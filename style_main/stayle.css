@@ -60,7 +60,6 @@ body {
     min-height: 19rem;
 
 }
-
 .instagram-logo {
     height: 3rem;
 }
@@ -115,9 +114,11 @@ body {
     display: flex;
     overflow: hidden;
     align-items: center;
-
+    padding: 1.3rem;
 }
 .app-download img{
+
+    padding: 0 1.3rem;
     width: 100%;
     overflow: hidden;
 }
